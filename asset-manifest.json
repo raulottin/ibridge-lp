@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ibridge-lp/static/css/main.c382a100.css",
+    "main.js": "/ibridge-lp/static/js/main.c8263dc7.js",
+    "static/js/787.61816625.chunk.js": "/ibridge-lp/static/js/787.61816625.chunk.js",
+    "static/media/sistema-img.JPG": "/ibridge-lp/static/media/sistema-img.0040eb56c7ec164a2d16.JPG",
+    "static/media/depoimento1.jpg": "/ibridge-lp/static/media/depoimento1.d7ec1bd64991c4098ae1.jpg",
+    "static/media/depoimento2.jpg": "/ibridge-lp/static/media/depoimento2.f2018073c0e884525a4c.jpg",
+    "static/media/clientes.jpg": "/ibridge-lp/static/media/clientes.bc6c3af3ef7b8a5d510c.jpg",
+    "static/media/integracoes.jpg": "/ibridge-lp/static/media/integracoes.950747acb897ccc669b2.jpg",
+    "static/media/ibridge-logo-dark.svg": "/ibridge-lp/static/media/ibridge-logo-dark.5f0586d036104f467052db81a53bd24c.svg",
+    "index.html": "/ibridge-lp/index.html",
+    "static/media/bg-gradientsvg.svg": "/ibridge-lp/static/media/bg-gradientsvg.4723b6d1e8a85b2f2fe9.svg",
+    "main.c382a100.css.map": "/ibridge-lp/static/css/main.c382a100.css.map",
+    "main.c8263dc7.js.map": "/ibridge-lp/static/js/main.c8263dc7.js.map",
+    "787.61816625.chunk.js.map": "/ibridge-lp/static/js/787.61816625.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c382a100.css",
+    "static/js/main.c8263dc7.js"
+  ]
+}
