@@ -1,0 +1,17 @@
+.cts-container {
+  margin-top: 100px;
+}
+.cts-h2 {
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 37px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cts-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}

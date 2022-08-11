@@ -1,0 +1,27 @@
+.integ-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.integ-h2 {
+  margin-top: 140px;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 37px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #000;
+}
+.integ-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+@media screen and (max-width: 992px) {
+  .integ-img {
+    width: 100%;
+  }
+}

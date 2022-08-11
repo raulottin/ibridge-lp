@@ -1,0 +1,66 @@
+.depo-container {
+  margin-top: 100px;
+  padding-top: 85px;
+  padding-bottom: 50px;
+  background-color: #f2f2f2;
+}
+.depo-h2 {
+  margin-left: 15%;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 37px;
+}
+.depo-p {
+  margin-left: 15%;
+  margin-top: 25px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  color: #717b8b;
+}
+.depo-nome {
+  font-weight: 700;
+}
+.depo-dados {
+  margin-top: 120px;
+  font-size: 16px;
+  line-height: 22px;
+}
+.depo-row {
+  font-family: "Open Sans";
+}
+.depo-p2 {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 27px;
+  display: flex;
+  align-items: center;
+  color: #717b8b;
+}
+.depo-col {
+  background: #ffffff;
+  border: 1px solid #d9d9d9;
+  border-radius: 10px;
+  width: 600px;
+  height: 400px;
+  display: flex;
+  margin-left: 200px;
+}
+.depo-foto {
+  width: 201.97px;
+  height: 316.63px;
+  position: relative;
+  margin-top: 25px;
+}
+.circle {
+  background-color: #b8f16f;
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  margin-top: -20px;
+}
+.quotes {
+  margin-top: 12px;
+  height: 40%;
+  width: 48px;
+}

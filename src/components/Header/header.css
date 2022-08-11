@@ -1,0 +1,61 @@
+.main {
+  padding: 40px 0;
+}
+.logo {
+  margin-left: 100px;
+  cursor: pointer;
+}
+.header-menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.header-menu a {
+  color: #000;
+  margin: 30px;
+  text-decoration: none;
+  font-weight: bold;
+}
+.menu-icon {
+  width: 28px;
+  display: none;
+}
+.menu-button {
+  width: 200px;
+  height: auto;
+  float: inline-end;
+  border: none;
+  background-color: #fff;
+}
+
+@media screen and (max-width: 992px) {
+}
+
+@media screen and (max-width: 768px) {
+  .header-menu {
+    justify-content: space-between;
+  }
+  .menu {
+    opacity: 0;
+  }
+  .menu-icon {
+    display: block;
+    cursor: pointer;
+  }
+  .menu-button {
+    margin-left: 300px;
+  }
+}
+@media screen and (max-width: 576px) {
+  .menu-button {
+    margin-left: 100px;
+  }
+}
+
+.menu.active {
+  opacity: 1;
+  visibility: visible;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(0, 0, 0, 0.8);
+}
